@@ -1,4 +1,4 @@
-<h2 align="left">Hello👋! My name is Alfonso Dayala and I'm a full stack developer from Orlando, Florida</h2>
+<h2 align="left">Hello👋! My name is Alfonso Dayala and I'm a back end developer from Orlando, Florida</h2>
 
 ###
 
